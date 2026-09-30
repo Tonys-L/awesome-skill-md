@@ -31,6 +31,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ### Code Review
 
 - [code-reviewer](https://www.agensi.io/skills/code-reviewer) — Structured code review for bugs, security vulnerabilities, logic errors, and style violations. Organizes findings by severity. Free.
+- [engineering-guardrails-audit](https://github.com/Tonys-L/engineering-guardrails-audit) — Meta-auditor that scans a project's defense net itself (typing, architecture, contracts, quality, environment, fake-green tests) and reports a deterministic Level 0-4 maturity grade with hardening guidance. Stack-agnostic. Free.
 - [security-audit](https://www.agensi.io/skills/security-audit) — Scans code for OWASP Top 10 vulnerabilities, hardcoded secrets, and authentication bypasses.
 
 ### Testing & QA
